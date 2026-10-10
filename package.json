@@ -1,6 +1,6 @@
 {
   "name": "cologne-phonetic-algorithm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Computes a phonetic code for German words using a rule-based mapping of characters to digits.",
   "type": "module",
   "main": "src/index.js",
